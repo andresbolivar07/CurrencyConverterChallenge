@@ -1,0 +1,2 @@
+Proyecto conversor de monedas, creado para el curso especialización en Backend de allura Latam. 
+Se usó Java cómo lenguaje de programación base y la API Exchange Rates para establecer conexión y realizar conversión de monedas en tiempo real
