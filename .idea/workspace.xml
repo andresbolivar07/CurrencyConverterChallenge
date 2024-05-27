@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95fa0909-4f73-46dc-8bbc-ea8320014d3e" name="Changes" comment="">
-      <changelist_data name="Andres Bolivar" email="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyConverterChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverterChallenge.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ApiConnection/ApiConverterProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ApiConnection/ApiConverterProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ApiConnection/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ApiConnection/Currency.java" afterDir="false" />
+    <list default="true" id="95fa0909-4f73-46dc-8bbc-ea8320014d3e" name="Changes" comment="Versión 1.0">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1716830049272</updated>
     </task>
+    <task id="LOCAL-00001" summary="Versión 1.0">
+      <option name="closed" value="true" />
+      <created>1716830976678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716830976678</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Versión 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versión 1.0" />
   </component>
 </project>

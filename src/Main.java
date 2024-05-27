@@ -23,8 +23,7 @@ public class Main {
 
             Scanner teclado = new Scanner(System.in);
             System.out.println("Digite (en números) la opción que desea usar: ");
-            int option = 0;
-            option = teclado.nextInt();
+            int option = teclado.nextInt();
             if (option == 7) {
                 System.out.println("La aplicación ha finalizado");
                 break;
